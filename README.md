@@ -1,4 +1,4 @@
 <h1>Upgrades</h1>
-New Database Added with MSSql
-API System Added and Tested wiht PostMan
-Utilities and Messages updated
+<p>New Database Added with MSSql</p>
+<p>API System Added and Tested wiht PostMan</p>
+<p>Utilities and Messages updated</p>
